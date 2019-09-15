@@ -1,3 +1,3 @@
 # Algorithms
 
-This repository contains the code for assignments for the course - Algorithmic Toolbox.
+This repository contains the codes for the algorithms created in the course - Algorithmic Toolbox.
